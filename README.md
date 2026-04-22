@@ -49,6 +49,7 @@ This project is ideal for:
 - GitHub
 
 ## Project Structure
+```
 self-healing-maintenance-system/
 │
 ├── monitor.sh
@@ -63,7 +64,7 @@ self-healing-maintenance-system/
 │   ├── fail_count.txt
 │   ├── restart_count.txt
 │   └── monitor.log
-
+```
 ## Key Idea
 This project demonstrates:
 monitoring → failure detection → automatic recovery
